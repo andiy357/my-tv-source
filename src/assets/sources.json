@@ -1,0 +1,8 @@
+[
+  {
+    "name": "OneCloud",
+    "api": "https://raw.iqiq.io/lzk23559/OneCloud/main/one.json",
+    "type": "json",
+    "parse": false
+  }
+]
