@@ -1,9 +1,8 @@
-{
-  "api_site": {
-    "onecloud": {
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/lzk23559/OneCloud/main/one.json",
-      "name": "OneCloud"
-    }
-  },
-  "custom_category": []
-}
+[
+  {
+    "name": "OneCloud",
+    "api": "https://ghproxy.net/https://raw.githubusercontent.com/lzk23559/OneCloud/main/one.json",
+    "type": "json",
+    "parse": false
+  }
+]
